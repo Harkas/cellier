@@ -1,0 +1,34 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            cellier
+tagline:          ''
+description:      '『he looks like a dog so』 『because he is a PM』'
+# url:              http://cellier.me
+url: "https://harkas.github.io/cellier"              # your host, for absolute URL
+baseurl: "https://harkas.github.io/cellier" # the subpath of your site, e.g. /blog/  for example, '/blog' if your blog hosted on 'host/blog'
+
+repository: "https://github.com/harkas/cellier"
+
+author:
+  name:           'cellier'
+  email:          cellier@mail.com
+
+paginate:      10
+
+# Custom vars
+version:          0.0.3
+
+# Comments
+
+comments :
+    provider : duoshuo
+    duoshuo :
+          short_name : cellier-me
+
+
